@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/tokenix/tokenix-launchpad.git
+   git clone https://github.com/0xRustPro/tokenix-launchpad.git
    cd tokenix
    ```
 
@@ -101,7 +101,6 @@ For any inquiries or support, please contact us at:
 
 - Website: [tokenix.finance](https://tokenix.finance)
 - Email: dev@tokenix.finance
-- Twitter: [@TokenixFinance](https://twitter.com/TokenixFinance)
 
 
 ## Security
@@ -176,3 +175,4 @@ To deploy the smart contract to the Solana devnet:
    ```
 
 Remember to thoroughly test on devnet before considering mainnet deployment.
+
